@@ -1,0 +1,8 @@
+Django~=5.0.4
+mysql-connector==2.2.9
+virtualenv==20.0.31
+Pillow
+django-renderpdf
+requests~=2.31.0
+nltk~=3.8.1
+googletrans~=4.0.0rc1
